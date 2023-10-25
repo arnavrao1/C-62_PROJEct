@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "c-60_hw",
+    "slug": "snack-0c2f6f82-3354-498a-a4e0-4184ef2b30a7",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.arnav.hw-60"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.arnav_rao1.snack0c2f6f823354498aa4e04184ef2b30a7"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7737dd28-634c-49e0-aa2b-208fc32e30b5"
+      }
+    }
+  }
+}
